@@ -132,7 +132,7 @@ Key findings reveal the need for targeted investments in infrastructure, healthc
 
 This analysis serves as a foundation for informed policymaking and strategic planning to address the complex dynamics of global population change.
 
-
+Data visualization tool used- Power Bi
 
 
 
